@@ -1,4 +1,6 @@
-# DevOps Capstone Template
+# devops-capstone-project
+
+This capstone project delivers a Customer Accounts microservice for an e-commerce platform. The Flask-based REST API will support creating, reading, updating, deleting, and listing customer accounts, and the project will be developed with Agile planning, test-driven development, continuous integration and delivery, Docker, Kubernetes, and Tekton.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
